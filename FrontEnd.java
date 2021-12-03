@@ -1,12 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: Cade Heinberg
-// Email: cheinberg@wisc.edu
-// Team: BG
-// Role: Front End Developer
-// TA:  bcochran2@wisc.edu
-// Lecturer: Gary Dahl
-// Notes to Grader: This is the only class I made
-
 import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
